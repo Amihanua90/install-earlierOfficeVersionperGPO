@@ -1,6 +1,7 @@
 # install-earlierOfficeVersionperGPO
 Installation einer vorherigen Office-Version per GPO
 
+Das folgende Skript muss in Form einer .bat-Datei in ein userkonfigurierte Anmeldeskript in einer GPO laufen.
 
 :: Script erstellt am 13.01.2025 von Amihanua90
 ::
